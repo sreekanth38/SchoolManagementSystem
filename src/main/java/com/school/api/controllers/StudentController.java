@@ -26,7 +26,7 @@ import com.school.api.service.StudentService;
 @RestController
 public class StudentController {
 
-	// Autowired the StudentService
+	// Autowired the StudentService class
 	@Autowired
 	public StudentService studentService;
 
